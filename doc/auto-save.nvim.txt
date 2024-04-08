@@ -1,4 +1,4 @@
-*auto-save.nvim.txt*     For Neovim >= 0.8.0     Last change: 2024 February 27
+*auto-save.nvim.txt*       For Neovim >= 0.8.0      Last change: 2024 April 08
 
 ==============================================================================
 Table of Contents                           *auto-save.nvim-table-of-contents*
