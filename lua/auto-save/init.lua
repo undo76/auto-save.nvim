@@ -172,4 +172,8 @@ function M.setup(custom_opts)
   end
 end
 
+function M.state()
+  return autosave_running or false
+end
+
 return M
